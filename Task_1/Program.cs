@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Найти точку пересечения двух прямых заданных уравнением y = k1 * x + b1, y = k2 * x + b2, b1 k1 и b2 и k2 заданы
 Console.Write("Введите k1: ");
 var k1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите b1: ");
